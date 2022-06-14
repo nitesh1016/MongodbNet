@@ -7,7 +7,7 @@ import javax.persistence.*;
 @Document(collection = "Cast")
 public class Cast {
 
-    //TODO : This can also be called as ActorandActressEntity
+    //TODO : This can also be called ActorandActressEntity
 
     @Id
     private Long id;
